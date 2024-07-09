@@ -27,11 +27,11 @@ Are you ready to relive the classic battle of wits and luck? Our Rock-Paper-Scis
 
 ## 📸 Screenshots
 
-![Game Screenshot] ![image](https://github.com/seeker-Anushri/Rock_paper/assets/112256322/b51c68d4-20fc-4a66-af07-c0a136ba8426)
+ ![image](https://github.com/seeker-Anushri/Rock_paper/assets/112256322/b51c68d4-20fc-4a66-af07-c0a136ba8426)
 
 *Our sleek and engaging game interface.*
 
-![Animation Screenshot]![image](https://github.com/seeker-Anushri/Rock_paper/assets/112256322/5a38a0b6-859c-41f0-ad18-b1c86a371329)
+Animation Screenshot![image](https://github.com/seeker-Anushri/Rock_paper/assets/112256322/5a38a0b6-859c-41f0-ad18-b1c86a371329)
 
 *Watch the intense battle with stunning animations.*
 
