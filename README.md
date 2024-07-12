@@ -1,4 +1,4 @@
-## [LiveDemo](https://seeker-anushri.github.io/Rock_paper/)
+##[![LiveDemo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://seeker-anushri.github.io/Rock_paper/)
 # 🎉 Welcome to the Ultimate Rock-Paper-Scissors Showdown! ✨
 
 ## 🌟 About the Game
