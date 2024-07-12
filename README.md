@@ -1,4 +1,5 @@
-##[![LiveDemo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://seeker-anushri.github.io/Rock_paper/)
+## [![LiveDemo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://seeker-anushri.github.io/Rock_paper/)
+ ![image](https://github.com/seeker-Anushri/Rock_paper/assets/112256322/b51c68d4-20fc-4a66-af07-c0a136ba8426)
 # 🎉 Welcome to the Ultimate Rock-Paper-Scissors Showdown! ✨
 
 ## 🌟 About the Game
@@ -26,17 +27,12 @@ Are you ready to relive the classic battle of wits and luck? Our Rock-Paper-Scis
 - **CSS Animations**: For the eye-catching effects that make the game pop!
 
 ## 📸 Screenshots
-
- ![image](https://github.com/seeker-Anushri/Rock_paper/assets/112256322/b51c68d4-20fc-4a66-af07-c0a136ba8426)
-
 *Our sleek and engaging game interface.*
-
 Animation Screenshot![image](https://github.com/seeker-Anushri/Rock_paper/assets/112256322/5a38a0b6-859c-41f0-ad18-b1c86a371329)
 
 *Watch the intense battle with stunning animations.*
 
 ## 🤝 Contributing
-
 We love contributions! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request. Let's make this game even more awesome together!
 
 1. Fork the Project
